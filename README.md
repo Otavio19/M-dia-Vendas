@@ -1,6 +1,6 @@
 <p>Exercicio proposto no BootCamp da GFT do curso "Lógica de Programação", aula "O que são linguagens de programação?". Para solução do exercicio utilizei a IDE <i>NetBeans</i> e a linguagem JAVA. </p>
 
-Exercicio: 
+<p>Exercicio:</p> 
 <table>
   <ul>
 <li>Pedir as vendas de um funcionarios nos meses: Janeiro, Fevereiro, março e Abril.
